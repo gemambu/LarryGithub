@@ -2,6 +2,6 @@
 
 Esta serie de libros cuentan la historia de un hacker único.
 
-** Gema Martinez **, Larry Plotter fan & git padawan.
+**Gema Martinez**, Larry Plotter fan & git padawan.
 
 
